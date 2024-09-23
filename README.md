@@ -3,7 +3,7 @@
 <b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b>
 <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 
-# Creating-an-EFS-and-Giving-Access-to-Multiple-EC2-Instances
+# Creating an EFS and Giving Access to Multiple EC2 Instances
 
 <h2>Description</h2>
 Scenario: A company managing pet client data across three branches is experiencing issues with their custom application used for syncing data, which includes images and metadata. They face problems like slow access times, inconsistency, and syncing failures due to storage limitations on local servers. The company is looking for a centralized solution that scales automatically and maintains specific access controls for VIP client folders, accessible only to their concierge team.
